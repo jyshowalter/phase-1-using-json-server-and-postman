@@ -12,6 +12,9 @@
     },
     {
       "id": 3
-    }
-  ]
-}
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 3
+    }	
